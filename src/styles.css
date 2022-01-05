@@ -1,0 +1,9 @@
+.App {
+  background-color: #fba02b;
+}
+
+@media (min-width: 1200px) {
+  .MuiContainer-fixed {
+    max-width: 1264px !important;
+  }
+}
