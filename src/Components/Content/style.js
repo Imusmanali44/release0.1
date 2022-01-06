@@ -7,6 +7,7 @@ export const ContentWrap = styled.div`
     text-align: center;
   }
   .about-us {
+    margin-left: 30px;
     h2 {
       font-family: "Marcellus", serif;
       font-size: 50px;
